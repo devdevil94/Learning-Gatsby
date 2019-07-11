@@ -9,7 +9,6 @@ const BlogPage = () => (
     <SEO title="Blog" />
     <h1>My Blog Page</h1>
     <p>Welcome to my blog</p>
-    <Link to="/">Home</Link>
   </Layout>
 )
 

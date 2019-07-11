@@ -9,7 +9,6 @@ const AboutPage = () => (
     <SEO title="About" />
     <h1>About Me</h1>
     <p>I am a web developer</p>
-    <Link to="/">Home</Link>
   </Layout>
 )
 
